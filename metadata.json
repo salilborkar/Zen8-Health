@@ -1,0 +1,7 @@
+{
+  "name": "Zen8 Health AI",
+  "description": "A comprehensive mobile-first health and wellness tracker for nutrition, workouts, and mental health, featuring an AI-powered coach to provide personalized recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
